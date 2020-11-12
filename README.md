@@ -1,0 +1,2 @@
+# CF_Pings_Downloads
+CloudFlare各节点的Tcp_Ping_DowmLoad
